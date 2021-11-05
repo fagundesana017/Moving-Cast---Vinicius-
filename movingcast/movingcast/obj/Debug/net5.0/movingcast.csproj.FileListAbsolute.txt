@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\movingcast\movingcast\bin\Debug\net5.0\movingcast.exe
+C:\Users\User\Desktop\movingcast\movingcast\bin\Debug\net5.0\movingcast.deps.json
+C:\Users\User\Desktop\movingcast\movingcast\bin\Debug\net5.0\movingcast.runtimeconfig.json
+C:\Users\User\Desktop\movingcast\movingcast\bin\Debug\net5.0\movingcast.runtimeconfig.dev.json
+C:\Users\User\Desktop\movingcast\movingcast\bin\Debug\net5.0\movingcast.dll
+C:\Users\User\Desktop\movingcast\movingcast\bin\Debug\net5.0\ref\movingcast.dll
+C:\Users\User\Desktop\movingcast\movingcast\bin\Debug\net5.0\movingcast.pdb
+C:\Users\User\Desktop\movingcast\movingcast\obj\Debug\net5.0\movingcast.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\movingcast\movingcast\obj\Debug\net5.0\movingcast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\movingcast\movingcast\obj\Debug\net5.0\movingcast.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\movingcast\movingcast\obj\Debug\net5.0\movingcast.AssemblyInfo.cs
+C:\Users\User\Desktop\movingcast\movingcast\obj\Debug\net5.0\movingcast.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\movingcast\movingcast\obj\Debug\net5.0\movingcast.dll
+C:\Users\User\Desktop\movingcast\movingcast\obj\Debug\net5.0\ref\movingcast.dll
+C:\Users\User\Desktop\movingcast\movingcast\obj\Debug\net5.0\movingcast.pdb
+C:\Users\User\Desktop\movingcast\movingcast\obj\Debug\net5.0\movingcast.genruntimeconfig.cache
